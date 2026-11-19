@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://philip-2007.github.io/Business-/sitemap.xml
